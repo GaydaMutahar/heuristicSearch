@@ -1,5 +1,5 @@
 # heuristicSearch
-The project aims to experience how to derive heuristics, using the Berkely Pac Man framework, as a requirment to complete the AI Planning for Autonomy (COMP90054) 
+The project aims to experience how to derive heuristics, using the Berkely Pac Man framework, as a requirement to complete the AI Planning for Autonomy (COMP90054) 
 at The University of Melbourne.
 
 In this project, the Pacman agent will find paths through his maze world, both to reach a particular location and to collect food efficiently.
