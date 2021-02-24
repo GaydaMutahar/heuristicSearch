@@ -18,8 +18,7 @@ Pacman agents (in searchAgents.py).
 
 ## Completed parts are done by:
 @Author: Gayda Mutahar
-@Date: 2019-09-02 01:01:52
-@LastEditors  : Zhang Ruihan
+@Date: 2019-09-02
 @Description: Project 1 for the subject : AI Planning for Autonomy (COMP90054) @unimelb
 """
 
